@@ -1,0 +1,30 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "TestCase",
+    "children" : [ {
+      "name" : "test_systembase",
+      "children" : [ {
+        "name" : "TestSystemBase",
+        "children" : [ {
+          "name" : "test_theme[test_input0]",
+          "uid" : "729995bcc6ba083b",
+          "parentUid" : "2e2a71419b88eff89c15443cda416666",
+          "status" : "broken",
+          "time" : {
+            "start" : 1601437861563,
+            "stop" : 1601437967365,
+            "duration" : 105802
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'theme': '大表姐', 'valueKey': 'video', 'loadingvideourl': 'configure/resources/car/car.png', 'expected': '基本'}" ]
+        } ],
+        "uid" : "2e2a71419b88eff89c15443cda416666"
+      } ],
+      "uid" : "12ba5b17d00a21f4a30ed2736569e7bb"
+    } ],
+    "uid" : "ee79ae265a842e48c4df30f006daaf4e"
+  } ]
+}

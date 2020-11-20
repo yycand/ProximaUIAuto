@@ -1,0 +1,11 @@
+INFO	2020-09-11 18:06:49,508	[webpage.py:31]	打开网页: http://192.168.21.104:1662/proxima
+INFO	2020-09-11 18:06:50,086	[webpage.py:61]	输入文本 admin
+INFO	2020-09-11 18:06:51,705	[webpage.py:61]	输入文本 Admin@123
+INFO	2020-09-11 18:06:53,748	[webpage.py:67]	点击元素 ('xpath', "//li[@class='log-on']")
+INFO	2020-09-11 18:06:55,795	[webpage.py:67]	点击元素 ('xpath', "//li[@data-id='1604']")
+INFO	2020-09-11 18:06:59,972	[webpage.py:67]	点击元素 ('xpath', "//li[@name='_system']")
+INFO	2020-09-11 18:07:00,986	[base.py:241]	GET http://192.168.21.104:9200/uino_proxima_sys_configure/uino_proxima_sys_configure/5200557462705519 [status:200 request:0.013s]
+INFO	2020-09-11 18:07:02,057	[webpage.py:67]	点击元素 ('xpath', "//input[@name='debugJs']")
+INFO	2020-09-11 18:07:04,121	[webpage.py:67]	点击元素 ('class', 'btn_save')
+INFO	2020-09-11 18:07:09,175	[webpage.py:67]	点击元素 ('xpath', "//li[@name='_system']")
+INFO	2020-09-11 18:07:10,177	[base.py:241]	GET http://192.168.21.104:9200/uino_proxima_sys_configure/uino_proxima_sys_configure/5200557462705519 [status:200 request:0.002s]

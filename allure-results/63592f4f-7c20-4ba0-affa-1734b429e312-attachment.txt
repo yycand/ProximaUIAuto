@@ -1,0 +1,9 @@
+INFO	2020-09-30 11:50:54,307	[webpage.py:31]	打开网页: http://192.168.181.128:1662/proxima
+INFO	2020-09-30 11:50:54,877	[webpage.py:61]	输入文本 admin
+INFO	2020-09-30 11:50:56,465	[webpage.py:61]	输入文本 admin123
+INFO	2020-09-30 11:50:58,510	[webpage.py:67]	点击元素 ('xpath', "//li[@class='log-on']")
+INFO	2020-09-30 11:51:00,558	[webpage.py:67]	点击元素 ('xpath', "//li[@data-id='1604']")
+INFO	2020-09-30 11:51:04,730	[webpage.py:67]	点击元素 ('xpath', "//li[@name='_system']")
+INFO	2020-09-30 11:51:07,840	[webpage.py:67]	点击元素 ('class', 'btn_save')
+INFO	2020-09-30 11:51:12,717	[webpage.py:67]	点击元素 ('xpath', "//li[@name='_system']")
+INFO	2020-09-30 11:51:14,807	[webpage.py:67]	点击元素 ('xpath', "//li[@data-id='1601']")

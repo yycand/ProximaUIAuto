@@ -1,0 +1,6 @@
+INFO	2020-09-11 18:07:12,273	[webpage.py:67]	点击元素 ('xpath', "//li[@name='_system']")
+INFO	2020-09-11 18:07:13,275	[base.py:241]	GET http://192.168.21.104:9200/uino_proxima_sys_configure/uino_proxima_sys_configure/5200557462705519 [status:200 request:0.001s]
+INFO	2020-09-11 18:07:14,345	[webpage.py:67]	点击元素 ('xpath', "//input[@name='isShowAlert']")
+INFO	2020-09-11 18:07:16,404	[webpage.py:67]	点击元素 ('class', 'btn_save')
+INFO	2020-09-11 18:07:21,449	[webpage.py:67]	点击元素 ('xpath', "//li[@name='_system']")
+INFO	2020-09-11 18:07:22,450	[base.py:241]	GET http://192.168.21.104:9200/uino_proxima_sys_configure/uino_proxima_sys_configure/5200557462705519 [status:200 request:0.001s]

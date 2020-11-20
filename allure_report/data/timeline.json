@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "UIN-20200609XCG",
+    "children" : [ {
+      "name" : "27132-MainThread",
+      "children" : [ {
+        "name" : "test_isShowAlert[test_input0]",
+        "uid" : "39944f302fc3a30e",
+        "parentUid" : "dde77f1b4f5123e607f9a72063bfaf70",
+        "status" : "passed",
+        "time" : {
+          "start" : 1599818830183,
+          "stop" : 1599818842452,
+          "duration" : 12269
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'theme': '大表姐', 'valueKey': 'video', 'loadingvideourl': 'configure/resources/car/car.png', 'expected': '基本'}" ]
+      }, {
+        "name" : "test_debugJs[test_input0]",
+        "uid" : "6e7465158c918b9f",
+        "parentUid" : "dde77f1b4f5123e607f9a72063bfaf70",
+        "status" : "passed",
+        "time" : {
+          "start" : 1599818816798,
+          "stop" : 1599818830178,
+          "duration" : 13380
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'theme': '大表姐', 'valueKey': 'video', 'loadingvideourl': 'configure/resources/car/car.png', 'expected': '基本'}" ]
+      } ],
+      "uid" : "dde77f1b4f5123e607f9a72063bfaf70"
+    } ],
+    "uid" : "3f959712263a3eb74598788fd78503ce"
+  } ]
+}

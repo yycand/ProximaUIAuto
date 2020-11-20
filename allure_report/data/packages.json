@@ -1,0 +1,35 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "TestCase.test_systembase",
+    "children" : [ {
+      "name" : "test_debugJs[test_input0]",
+      "uid" : "6e7465158c918b9f",
+      "parentUid" : "7b969b03c8f5d5a7f3fd83fc80198dbb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599818816798,
+        "stop" : 1599818830178,
+        "duration" : 13380
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "{'theme': '大表姐', 'valueKey': 'video', 'loadingvideourl': 'configure/resources/car/car.png', 'expected': '基本'}" ]
+    }, {
+      "name" : "test_isShowAlert[test_input0]",
+      "uid" : "39944f302fc3a30e",
+      "parentUid" : "7b969b03c8f5d5a7f3fd83fc80198dbb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599818830183,
+        "stop" : 1599818842452,
+        "duration" : 12269
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "{'theme': '大表姐', 'valueKey': 'video', 'loadingvideourl': 'configure/resources/car/car.png', 'expected': '基本'}" ]
+    } ],
+    "uid" : "TestCase.test_systembase"
+  } ]
+}

@@ -1,0 +1,43 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "TestCase",
+    "children" : [ {
+      "name" : "test_systembase",
+      "children" : [ {
+        "name" : "TestSystemBase",
+        "children" : [ {
+          "name" : "test_debugJs[test_input0]",
+          "uid" : "6e7465158c918b9f",
+          "parentUid" : "2e2a71419b88eff89c15443cda416666",
+          "status" : "passed",
+          "time" : {
+            "start" : 1599818816798,
+            "stop" : 1599818830178,
+            "duration" : 13380
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'theme': '大表姐', 'valueKey': 'video', 'loadingvideourl': 'configure/resources/car/car.png', 'expected': '基本'}" ]
+        }, {
+          "name" : "test_isShowAlert[test_input0]",
+          "uid" : "39944f302fc3a30e",
+          "parentUid" : "2e2a71419b88eff89c15443cda416666",
+          "status" : "passed",
+          "time" : {
+            "start" : 1599818830183,
+            "stop" : 1599818842452,
+            "duration" : 12269
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'theme': '大表姐', 'valueKey': 'video', 'loadingvideourl': 'configure/resources/car/car.png', 'expected': '基本'}" ]
+        } ],
+        "uid" : "2e2a71419b88eff89c15443cda416666"
+      } ],
+      "uid" : "12ba5b17d00a21f4a30ed2736569e7bb"
+    } ],
+    "uid" : "ee79ae265a842e48c4df30f006daaf4e"
+  } ]
+}
